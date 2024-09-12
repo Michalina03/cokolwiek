@@ -1,0 +1,85 @@
+body{
+    background-color: black;
+}
+.Biały{
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    margin-left: 15px;
+}
+.Czerwony{
+    width: 300px;
+    height: 100px;
+    background-color: red;
+    margin-left: 15px;
+}
+.Żółty{
+    width: 300px;
+    height: 66px;
+    background-color: yellow;
+    margin-left: 15px;
+    margin-top: 30px;
+}
+.Czerwony2{
+    width: 300px;
+    height: 66px;
+    background-color: red;
+    margin-left: 15px;
+}
+.Zielony{
+    width: 300px;
+    height: 66px;
+    background-color: green;
+    margin-left: 15px;
+}
+.Niebieski{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(11, 72, 152);
+    margin-left: 15px;
+    margin-top: 30px;
+}
+.Żółty2{
+    width: 300px;
+    height: 100px;
+    background-color: yellow;
+    margin-left: 15px;
+}
+.Czerwony3{
+    width: 300px;
+    height: 66px;
+    background-color: red;
+    margin-left: 15px;
+    margin-top: 30px;
+}
+.Biały2{
+    width: 300px;
+    height: 66px;
+    background-color:white;
+    margin-left: 15px;
+}
+.Niebieski2{
+    width: 300px;
+    height: 66px;
+    background-color: rgb(11, 11, 162);
+    margin-left: 15px;
+}
+.Bordowy{
+    width: 300px;
+    height: 85px;
+    background-color:rgb(104, 8, 8);
+    margin-left: 15px;
+    margin-top: 30px;
+}
+.Biały3{
+    width: 300px;
+    height: 30px;
+    background-color: white;
+    margin-left: 15px;
+}
+.Bordowy2{
+    width: 300px;
+    height: 85px;
+    background-color: rgb(104, 8, 8);
+    margin-left: 15px;
+}
